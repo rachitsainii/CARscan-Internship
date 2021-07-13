@@ -7,6 +7,10 @@
  <img src="images/view1.jpeg" width=500>
  <img src="images/view2.jpeg" width=500>
  <img src="images/view3.jpeg" width=500>
+ 
+<h2> New Background Image <h2>
+  
+ <img src="images/back.jpg" width=500>
   
 <h2> 1. Output after background removal <h2>
   
